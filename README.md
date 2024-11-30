@@ -9,8 +9,4 @@ C++ programming.
 
 ### 1. **Stone Paper Scissors Game**
 
-- **Description**: A simple command-line game where the user can play against the computer.
-- **Features**:
-  - Randomized computer choices using `rand()`.
-  - User-friendly CLI interaction.
-- **Concepts Used**: Conditional statements, loops, random number generation.
+### 2. **Quiz Game**
