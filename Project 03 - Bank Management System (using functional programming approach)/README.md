@@ -4,7 +4,7 @@ A simple **Bank Management System** written in C++ that provides a menu-driven i
 
 ---
 
-## Features
+## 💻 Features
 
 The main menu includes the following options:
 
@@ -28,7 +28,7 @@ The main menu includes the following options:
 
 ---
 
-## How to Use
+## 🎮 How to Use
 
 Follow the instructions displayed in the terminal:
 
@@ -47,7 +47,7 @@ Choose what do you want to do? [1 to 6]?
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Language**:  
   The project is implemented in **C++**
