@@ -1,6 +1,6 @@
 # 🏦 Bank Management System in C++
 
-A simple **Bank Management System** written in C++ that provides a menu-driven interface to manage client data and perform transactions. This project is designed to handle basic operations such as adding, viewing, updating, and deleting client information, as well as performing multiple transactions like **Deposit**, **Withdraw**, and **Total Balances**.
+A simple **Bank Management System** written in C++ that provides a menu-driven interface to manage users and clients data and perform transactions. This project is designed to handle basic operations such as adding, viewing, updating, and deleting client information, as well as performing multiple transactions like **Deposit**, **Withdraw**, and **Total Balances**.
 
 ---
 
@@ -31,7 +31,13 @@ The main menu includes the following options:
    - 📊 **Total Balances**: View the total balances across all accounts.
    - 🔙 **Main Menu**: Return to the main menu.
 
-7. **Exit**  
+7. **Manage Users**
+   Assign and update user roles:
+
+   - **(-1)**: Admin permissions (can update, delete, and find clients).
+   - **Other numbers**: Normal user permissions (limited actions based on assigned number).
+
+8. **Exit**  
    Closes the application.
 
 ---
@@ -47,12 +53,13 @@ Main Menu:
 [4] Update Client Info.
 [5] Find Client.
 [6] Transactions.
-[7] Exit.
-Choose what do you want to do? [1 to 7]?
+[7] Manage Users.
+[8] Exit.
+Choose what do you want to do? [1 to 8]?
 
 1. Enter the corresponding number for the action you wish to perform.
 2. Follow the on-screen prompts to complete the operation.
-3. To exit the application, select option `[7]`.
+3. To exit the application, select option `[8]`.
 
 ---
 
