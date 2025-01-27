@@ -16,3 +16,5 @@ C++ programming.
 ### 4. **ATM Management System**
 
 ### 5. **Simple Calculator Using OOP**
+
+### 6. **My Custom String Class Library Using OOP**
