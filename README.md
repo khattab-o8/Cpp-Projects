@@ -26,3 +26,5 @@ C++ programming.
 ### 9. **My Custom Input and Validation Library Using OOP**
 
 ### 10. **Bank Management System and Currency Exchange Using OOP**
+
+### 11. **Custom Double Linked List Class Library Using DS and OOP**
