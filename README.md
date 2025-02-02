@@ -28,3 +28,5 @@ C++ programming.
 ### 10. **Bank Management System and Currency Exchange Using OOP**
 
 ### 11. **Custom Double Linked List Class Library Using DS and OOP**
+
+### 12. **Custom My Queue Class Library Using DS and OOP**
