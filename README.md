@@ -30,3 +30,5 @@ C++ programming.
 ### 11. **Custom Double Linked List Class Library Using DS and OOP**
 
 ### 12. **Custom My Queue Class Library Using DS and OOP**
+
+### 13. **Custom My Stack Class Library Using DS and OOP**
