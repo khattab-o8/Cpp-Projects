@@ -40,3 +40,5 @@ C++ programming.
 ### 16. **Custom My Stack Array Class Library Using DS and OOP**
 
 ### 17. **Undo-Redo Project with Stack Using DS and OOP**
+
+### 18. **Ticket Queue Management System Using DS and OOP**
